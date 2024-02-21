@@ -1,7 +1,6 @@
 # Olá, me chamo Khalil! 👋
 
-### Seja bem vindo ao meu perfil do GitHub!
-## Informações:
+<h1 align="center">Seja bem vindo ao meu perfil do GitHub!</h1>
 
 ## Ferramentas e Tecnologias que estou aprendendo 🤔
 <p align="center">
