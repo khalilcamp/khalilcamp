@@ -25,9 +25,8 @@
 </p>
 </div>
 
-![](https://media1.tenor.com/m/1_rDlopCuOAAAAAC/nerd-dog-nerd.gif)
+  ![](https://media1.tenor.com/m/1_rDlopCuOAAAAAC/nerd-dog-nerd.gif)
 
-![Snake animation](https://github.com/khalilcamp/khalilcamp/blob/output/github-contribution-grid-snake.svg)
 <!--
 **khalilcamp/khalilcamp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
