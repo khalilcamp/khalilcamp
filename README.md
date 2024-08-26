@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Internship<br>👯 I’m looking to collaborate on Front-End Projects.<br>🌱 I’m currently learning JS, React and Node.<br>💬 Ask me about Front-End.<br>⚡ Fun fact: Started my career as a LUA developer.
+👯 I’m looking to collaborate on Front-End Projects.<br>🌱 I’m currently learning JS, React and Node.<br>💬 Ask me about Front-End.<br>⚡ Fun fact: Started my career as a LUA developer.
 
 
 ## 🌐 Socials:
