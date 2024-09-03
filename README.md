@@ -1,9 +1,9 @@
 # 💫 About Me:
-👯 I’m looking to collaborate on Front-End Projects.<br>🌱 I’m currently learning JS, React and Node.<br>💬 Ask me about Front-End.<br>⚡ Fun fact: Started my career as a LUA developer.
+👯 I’m looking to collaborate on Full stack projects.<br>🌱 I’m currently learning Java, SpringBoot and React Native, alongside mobile applications.<br>💬 Ask me about React, React Native, Springboot and Java.<br>⚡ Fun fact: Started my career as a LUA developer.
 
 
 ## 🌐 Socials:
-<a href = "mailto:kacamargopacker@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:khalilcamargodeveloper@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/khalil-camargo-packer-035ba91a5/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 # 💻 Tech Stack:
@@ -23,6 +23,6 @@
 <img src='https://as2.ftcdn.net/v2/jpg/04/39/93/99/1000_F_439939972_GxycVL7LuSTEW1jFSOV2GDwq2OqDksGq.jpg' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=khalilcamp&icon=0&color=0)](https://visitcount.itsvg.in)
+[![]([[https://visitcount.itsvg.in/api?id=khalilcamp&icon=0&color=0)](https://st2.depositphotos.com/44176906/47900/i/450/depositphotos_479003304-stock-photo-dog-glasses-red-shirt-sits.jpg](https://st2.depositphotos.com/44176906/47900/i/450/depositphotos_479003304-stock-photo-dog-glasses-red-shirt-sits.jpg))
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
